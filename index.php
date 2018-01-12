@@ -39,7 +39,6 @@ $data = getDataFromDatabase();
 				<span class="contact100-form-title">
 					MD5 implementation project
 				</span>
-				<a href="index.php">Reload</a>
 
 				<div class="wrap-input100 validate-input" data-validate = "Message is required">
 					<span class="label-input100">Message</span>
@@ -51,7 +50,7 @@ $data = getDataFromDatabase();
 				{
 				?>
 					<div class="alert alert-success" role="alert" style="width: 100%;text-align: center;">
-						Clear message : <b><?php echo $_POST['message'];?></b> <hr/>Message cryped: <b><?php echo $message_crypted;?></b>
+						Clear message : <b><?php echo $_POST['message'];?></b> <hr/>Message crypted: <b><?php echo $message_crypted;?></b>
 					</div></center>
 				<?php
 				}
