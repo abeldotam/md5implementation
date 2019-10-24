@@ -1,9 +1,6 @@
 <h1 align="center">md5implementation in basic PHP 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/abeldotam/md5implementation/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
   <a href="https://twitter.com/abeldotam" target="_blank">
     <img alt="Twitter: abeldotam" src="https://img.shields.io/twitter/follow/abeldotam.svg?style=social" />
   </a>
