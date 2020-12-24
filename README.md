@@ -10,8 +10,6 @@
 
 > Easy implementation of the MD5 algorithm, in basic PHP.
 
-### ✨ [Demo](https://md5.abel.am/)
-
 
 ## Author
 
