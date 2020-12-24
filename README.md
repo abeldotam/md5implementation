@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h2 align="center">⚠️ This was a learning material for a school project (treat is a such!) ⚠️</h1>
+<h2 align="center">⚠️ This was a learning material for a school project (treat it as such!) ⚠️</h1>
 
 > Easy implementation of the MD5 algorithm, in basic PHP.
 
